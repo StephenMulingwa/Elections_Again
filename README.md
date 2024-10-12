@@ -1,10 +1,10 @@
 # Kenya Elections Data Analysis
-![image](https://github.com/user-attachments/assets/69c4b93f-44af-475a-a2f4-2b6dc39bf126)
+![image](https://github.com/user-attachments/assets/302e4eca-41cc-4200-823b-8b58419e81d7)
 
 ## Introduction
 Every five years in Kenya marks a critical period as elections take center stage, with candidates for various elective positions returning to their grassroots bases in a bid to convince voters to support them. However, one of the key challenges lies in understanding voter behavior across different age groups. Many voters, particularly in the younger age brackets, are vocal about their political opinions but often fail to translate that enthusiasm into actual votes. The patterns of voter engagement and turnout by age group present a volatile and shifting landscape, with noticeable changes over the past decade. These changes raise an important question for political candidates: how can they maximize turnout among voting populations to secure a higher number of votes? Given that presidential elections involve the entire voting population, identifying and effectively targeting specific voter groups can be the key to electoral success.
 
-![image](https://github.com/user-attachments/assets/302e4eca-41cc-4200-823b-8b58419e81d7)
+![image](https://github.com/user-attachments/assets/33a7b1ea-63d7-47d3-b61e-94fe180780df)
 
 Kenyan elections are often described as a game of numbers, where even the smallest shift in voter behavior can sway the outcome. Opinion polls and popularity ratings in recent years have repeatedly failed to predict the next president accurately, largely due to their inability to account for the dynamic nature of voter patterns. Analyzing these patterns by age group, particularly focusing on Young adults (18-25), Adults (26-44), Middle-aged (45-59), and the elderly (60+), offers a new perspective on how political campaigns can be tailored for success. As the voting landscape has evolved dramatically over the last decade, understanding these shifts is crucial for any candidate aiming to optimize their strategy. This project will focus on analyzing voter patterns in Kenya’s presidential elections, identifying which age groups offer the greatest potential for voter mobilization, and providing insights into how voter turnout can be maximized for electoral success.
 
